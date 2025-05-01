@@ -1,0 +1,14 @@
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\LogNormalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\LogNormalizer.AssemblyInfoInputs.cache
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\LogNormalizer.AssemblyInfo.cs
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\LogNormalizer.csproj.CoreCompileInputs.cache
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\bin\Debug\net7.0\LogNormalizer.exe
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\bin\Debug\net7.0\LogNormalizer.deps.json
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\bin\Debug\net7.0\LogNormalizer.runtimeconfig.json
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\bin\Debug\net7.0\LogNormalizer.dll
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\bin\Debug\net7.0\LogNormalizer.pdb
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\LogNormalizer.dll
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\refint\LogNormalizer.dll
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\LogNormalizer.pdb
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\LogNormalizer.genruntimeconfig.cache
+C:\Users\sinay\Desktop\LogNormalizer\LogNormalizer\obj\Debug\net7.0\ref\LogNormalizer.dll
