@@ -1,0 +1,14 @@
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\Compress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\Compress.AssemblyInfoInputs.cache
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\Compress.AssemblyInfo.cs
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\Compress.csproj.CoreCompileInputs.cache
+C:\Users\sinay\Desktop\Compress\Compress\bin\Debug\net7.0\Compress.exe
+C:\Users\sinay\Desktop\Compress\Compress\bin\Debug\net7.0\Compress.deps.json
+C:\Users\sinay\Desktop\Compress\Compress\bin\Debug\net7.0\Compress.runtimeconfig.json
+C:\Users\sinay\Desktop\Compress\Compress\bin\Debug\net7.0\Compress.dll
+C:\Users\sinay\Desktop\Compress\Compress\bin\Debug\net7.0\Compress.pdb
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\Compress.dll
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\refint\Compress.dll
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\Compress.pdb
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\Compress.genruntimeconfig.cache
+C:\Users\sinay\Desktop\Compress\Compress\obj\Debug\net7.0\ref\Compress.dll

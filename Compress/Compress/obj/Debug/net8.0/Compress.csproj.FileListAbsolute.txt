@@ -1,0 +1,14 @@
+/Users/sasasinaev/Compress/Compress/bin/Debug/net8.0/Compress
+/Users/sasasinaev/Compress/Compress/bin/Debug/net8.0/Compress.deps.json
+/Users/sasasinaev/Compress/Compress/bin/Debug/net8.0/Compress.runtimeconfig.json
+/Users/sasasinaev/Compress/Compress/bin/Debug/net8.0/Compress.dll
+/Users/sasasinaev/Compress/Compress/bin/Debug/net8.0/Compress.pdb
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/Compress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/Compress.AssemblyInfoInputs.cache
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/Compress.AssemblyInfo.cs
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/Compress.csproj.CoreCompileInputs.cache
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/Compress.dll
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/refint/Compress.dll
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/Compress.pdb
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/Compress.genruntimeconfig.cache
+/Users/sasasinaev/Compress/Compress/obj/Debug/net8.0/ref/Compress.dll
